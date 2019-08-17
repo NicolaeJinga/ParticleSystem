@@ -1,6 +1,6 @@
 # ParticleSystem (June 2014)
 
-Implemented in C++ with SFML. Rebuilt in August 2019 with SFML 2.5.1. If the app does not run, make sure you have vcredist_x86 installed.
+Implemented in C++ with SFML. Rebuilt in August 2019 with SFML 2.5.1.
 
 Three types of Particle Systems: Smoke, Spark and Water.
 
